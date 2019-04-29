@@ -1,6 +1,6 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.
+title: Netlift Fast Deploy
+subtitle: This was just a test to see how fast this can work
 layout: layouts/base.njk
 ---
 
